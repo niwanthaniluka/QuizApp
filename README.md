@@ -1,5 +1,7 @@
 # 📚 ICT Quiz Application
 
+![alt text](quizUi.jpg)
+
 An interactive **ICT Multiple Choice Quiz** built with React.js.  
 Test your ICT knowledge with multiple-choice questions, get instant feedback, and view your final score.
 
@@ -20,4 +22,6 @@ Test your ICT knowledge with multiple-choice questions, get instant feedback, an
 - **JavaScript (ES6+)**
 - **CSS3** for styling
 
-
+---
+Git hub repo
+https://github.com/niwanthaniluka/QuizApp.git
