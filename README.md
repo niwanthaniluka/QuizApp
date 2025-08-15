@@ -23,5 +23,3 @@ Test your ICT knowledge with multiple-choice questions, get instant feedback, an
 - **CSS3** for styling
 
 ---
-Git hub repo
-https://github.com/niwanthaniluka/QuizApp.git
